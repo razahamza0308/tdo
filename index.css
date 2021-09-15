@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(rgb(76, 105, 76),yellow);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 20px;
+}
+
+.maindiv{
+    padding: 20px;
+    bottom: 20px;
+    margin: 120px;
+    background-image: linear-gradient(blue,red);
+    border-radius: 20px 20px;
+}
+
+input{
+    padding: 20px;
+    width: 40%;
+    border-radius: 10px 10px;
+    font-size: 30px;
+}
+
+button{
+    padding: 30px;
+
+    border-radius: 10px 10px;
+    background-color: burlywood;
+}
+
+li{
+    list-style-type: none;
+    padding: 10px;
+    font-size: 40px;
+    background-image: linear-gradient(orange,rgb(21, 92, 25));
+    border-radius: 10px 10px;
+}
